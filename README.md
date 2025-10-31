@@ -30,7 +30,7 @@ It focuses on feature-space analysis, model comparison, and visualization of dec
 - Models were trained and evaluated on the same normalized feature space.
 
 ## Key Takeaways
--> Experience with data normalization, feature engineering, and model tuning.
--> Understanding of class overlap and decision boundaries in multi-feature datasets.
--> Ability to compare and evaluate several classical machine learning algorithms on real-world data.
+- Experience with data normalization, feature engineering, and model tuning.
+- Understanding of class overlap and decision boundaries in multi-feature datasets.
+- Ability to compare and evaluate several classical machine learning algorithms on real-world data.
 
