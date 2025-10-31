@@ -1,4 +1,4 @@
-#  Country Classification Using Machine Learning-
+#  Country Classification Using Machine Learning
 
 ## Overview
 This project applies supervised machine learning techniques to classify countries as Developed or Developing using indicators from a dataset produced by the World Health Organization (WHO).
